@@ -19,7 +19,7 @@ abbrlink: 4a17b157
 
 ### Compact 行格式
 
-![COMPACT行格式](./assets/04-01.png)
+![COMPACT行格式](/assets/04-01.png)
 
 上图就是 Compact 行格式的示意图，一个 record 可以简单分为`真实数据`与`额外信息`两个部分。
 

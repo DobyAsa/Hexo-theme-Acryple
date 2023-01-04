@@ -26,15 +26,6 @@ menu:
     小空调: /kongtiao/
     每日早报: /zaobao/ || fa fa-newspaper
     木鱼: /muyu/ || fa fa-cog
-  线路 || fas fa-link:
-    Vercel: https://yisous.xyz
-    Vercel2: https://vercel.yisous.xyz
-    Netlify: https://netlify.yisous.xyz
-    Cloudflare: https://cf.yisous.xyz
-    Cloudflare2: https://cloudflare.yisous.xyz
-    Github: https://github.yisous.xyz
-    Railway: https://railway.yisous.xyz
-    Railway2: https://rw.yisous.xyz
 # Code Blocks (代碼相關)
 # --------------------------------------
 
@@ -60,11 +51,10 @@ social:
   fab fa-github: https://github.com/DobyAsa || Github
   #fas fa-envelope: mailto:lyx2010official.outlook.com || Email
   #iconfont icon-gitee: https://gitee.com/lyxofficial || Gitee
-  iconfont icon-csdn: https://blog.csdn.net/weixin_44101108 || CSDN
-  iconfont icon-RSS: https://www.cnblogs.com/LYXOfficial || 博客园
+  iconfont icon-csdn: https://blog.csdn.net/m0_50000213 || CSDN
+  iconfont icon-RSS: https://www.cnblogs.com/dobyasa/ || 博客园
   fa fa-rss: /atom.xml || 订阅RSS源
-  iconfont icon-zhihu: https://www.zhihu.com/people/lyx-29-86-4 || 知乎
-  iconfont icon-bilibili: https://space.bilibili.com/369280472 || bilibili
+  iconfont icon-bilibili: https://space.bilibili.com/9601117 || bilibili
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -104,11 +94,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://bu.dusays.com/2022/09/01/63103c75da20e.webp
+favicon: /img/myfavicon.png
 
 # Avatar (頭像)
 avatar:
-  img: /img/a.webp
+  img: /img/blog_avatar.jpg
   effect: false
 
 # Disable all banner image
@@ -150,7 +140,7 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://api.vvhan.com/api/acgimg
+    - https://api.ixiaowai.cn/gqapi/gqapi.php
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -721,7 +711,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 6/4/2022 12:00:00
+  publish_date: 1/4/2023 12:00:00
   ##网页开通时间
   #格式: 月/日/年 时间
   #也可以写成 年/月/日 时间
