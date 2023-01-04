@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: InnoDB中record的结构
 abbrlink: 4a17b157
 ---
 
